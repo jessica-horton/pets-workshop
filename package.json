@@ -16,11 +16,11 @@
     "swr": "^2.3.3"
   },
   "devDependencies": {
-    "@types/node": "22.13.10",
+    "@types/node": "22.15.19",
     "@types/react": "19.0.10",
-    "cypress": "^14.2.0",
+    "cypress": "^14.3.3",
     "mongodb-memory-server": "^10.1.4",
-    "start-server-and-test": "^2.0.11",
-    "typescript": "5.8.2"
+    "start-server-and-test": "^2.0.12",
+    "typescript": "5.8.3"
   }
 }
